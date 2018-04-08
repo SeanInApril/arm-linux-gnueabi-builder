@@ -45,7 +45,7 @@
 #                                                     #
 # ALIAS     - alias for the toolchain, e.g. arm-linux #
 # _VER_     - version number of packages              #
-# _PATH_    - patch the toolchain will be built       #
+# _PATH_    - path the toolchain will be built        #
 # _OPTIONS_ - common options for bin/cc2/gdb          #
 #                                                     #
 #######################################################
