@@ -141,7 +141,7 @@ setup-dir:
 #######################################################
 #an urgerly implimentation, should be optimized
 ifneq ($(_KNL_VER_:2.%=Z.%), $(_KNL_VER_))
-_MID_DIR_ := v2.x
+_MID_DIR_ := v2.6
 endif
 
 ifneq ($(_KNL_VER_:3.%=Z.%), $(_KNL_VER_))
