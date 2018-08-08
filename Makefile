@@ -318,6 +318,7 @@ build-lnk:
 build-pac:
 	@echo "build tarball here"
 
+	@echo "save versions"
 	@echo ${BINUTILS_VERSION} >  ${PREFIX}/versions.txt
 	@echo ${GCC_VERSION}      >> ${PREFIX}/versions.txt
 	@echo ${GLIBC_VERSION}    >> ${PREFIX}/versions.txt
