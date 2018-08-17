@@ -133,7 +133,7 @@ setup-dir:
 	mkdir -pv ${PRJROOT}/bld/${GDB_VERSION}
 	mkdir -pv ${PRJROOT}/bld/${GLIBC_VERSION}
 
-	tree -L 3
+#	tree -L 3
 	@echo "setup dir end"
 
 #######################################################
