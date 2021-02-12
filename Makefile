@@ -25,8 +25,8 @@ _LIB_VER_ := 2.27
 _GDB_VER_ := 8.1
 _KNL_VER_ := 4.10.8
 
-_PATH_   := ${HOME}/gnutools
-#_PATH_    := 
+#_PATH_   := ${HOME}/gnutools
+_PATH_    := 
 _OPTIONS_ := --disable-nls
 #------------------------8<----------------------------
 
